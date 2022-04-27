@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mysterysommy
-- 👀 I’m interested in Networks & Cyebrsecurity
-- 🌱 I’m currently learning Network Security
-- 💞️ I’m looking to collaborate on networks and security projects and learnings 
+- 👀 I’m interested in cloud administration and security
+- 🌱 I’m currently learning cloud administration and security
+- 💞️ I’m looking to collaborate on cloud projects and learnings 
 - 📫 You can reach me on mysterysommy@gmail.com
 
 <!---
